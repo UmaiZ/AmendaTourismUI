@@ -1,4 +1,4 @@
-# amendatourguide
+# Amenda Tourism App Design
 
 Flutter theme for tourism app
 
