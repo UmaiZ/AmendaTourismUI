@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc1.jpg)
+![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc2.jpg)
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
