@@ -4,7 +4,7 @@ Flutter theme for tourism app
 
 ![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc1.jpg)
 ![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc2.jpg)
-![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc3.jpg)
+![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc11.jpg)
 ![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc4.jpg)
 ![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc5.jpg)
 ![alt text](https://github.com/UmaiZ/AmendaTourismUI/blob/master/assets/images/moc6.jpg)
